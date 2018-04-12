@@ -1,63 +1,63 @@
-;Temporada;Campeon;Resultado;Subcampeon;Notas
-0;1955-56;Real Madrid C. F.;4 - 3;Stade de Reims;
-1;1956-57;Real Madrid C. F.;2 - 0;A. C. Fiorentina;Primer equipo campeón en su propio estadio. Primera defensa del título
-2;1957-58;Real Madrid C. F.;3 - 2 ;A. C. Milan;
-3;1958-59;Real Madrid C. F.;2 - 0;Stade de Reims;Primera final repetida
-4;1959-60;Real Madrid C. F.;7 - 3;Eintracht Frankfurt;Récord de campeonatos consecutivos. Final más goleadora
-5;1960-61;S. L. Benfica;3 - 2;C. F. Barcelona;Campeón sin extranjeros
-6;1961-62;S. L. Benfica;5 - 3;Real Madrid C. F.;Primera final entre dos campeones. Campeón sin extranjeros
-7;1962-63;Milan A. C.;2 - 1;S. L. Benfica;
-8;1963-64;F. C. Internazionale;3 - 1;Real Madrid C. F.;Campeón debutante e invicto
-9;1964-65;F. C. Internazionale;1 - 0;S. L. Benfica;
-10;1965-66;Real Madrid C. F.;2 - 1;F. K. Partizan;Logrado título en propiedad y campeón sin extranjeros
-11;1966-67;Celtic F. C.;2 - 1;F. C. Internazionale;Campeón debutante y sin extranjeros
-12;1967-68;Manchester United F. C.;4 - 1;S. L. Benfica;
-13;1968-69;Milan A. C.;4 - 1;A. F. C. Ajax;
-14;1969-70;Feyenoord;2 - 1;Celtic F. C.;
-15;1970-71;A. F. C. Ajax;2 - 0;Panathinaikós A. O.;
-16;1971-72;A. F. C. Ajax;2 - 0;F. C. Internazionale;
-17;1972-73;A. F. C. Ajax;1 - 0;Juventus F. C.;Logrado título en propiedad
-18;1973-74;F. C. Bayern;1 - 1;Atlético de Madrid;Primera y única final decidida en un partido de desempate
-19;1974-75;F. C. Bayern;2 - 0;Leeds United F. C.;
-20;1975-76;F. C. Bayern;1 - 0;A. S. Saint-Étienne;Logrado título en propiedad
-21;1976-77;Liverpool F. C.;3 - 1;Borussia Mönchengladbach;
-22;1977-78;Liverpool F. C.;1 - 0;Club Brujas KV;
-23;1978-79;Nottingham Forest F. C.;1 - 0;Malmö FF;Campeón debutante invicto y sin extranjeros
-24;1979-80;Nottingham Forest F. C.;1 - 0;Hamburgo S.V.;Campeón sin extranjeros
-25;1980-81;Liverpool F. C.;1 - 0;Real Madrid C. F.;Campeón invicto y sin extranjeros
-26;1981-82;Aston Villa F. C.;1 - 0;F. C. Bayern;Récord de campeonatos consecutivos de un mismo país. Campeón debutante
-27;1982-83;Hamburgo S.V.;1 - 0;Juventus F. C.;
-28;1983-84;Liverpool F. C.;1 - 1 ;A. S. Roma;Campeón invicto. Perdedor en estadio propio
-29;1984-85;Juventus F. C.;1 - 0;Liverpool F. C.;
-30;1985-86;F. C. Steaua Bucureşti;0 - 0;F. C. Barcelona;Primer campeón de Europa del Este. Campeón invicto
-31;1986-87;F. C. Porto;2 - 1;F. C. Bayern;
-32;1987-88;PSV Eindhoven;0 - 0 ;S. L. Benfica;Campeón con menos victorias
-33;1988-89;Milan A. C.;4 - 0;F. C. Steaua Bucureşti;Campeón invicto
-34;1989-90;Milan A. C.;1 - 0;S. L. Benfica;
-35;1990-91;F. K. Estrella Roja;0 - 0 ;Olympique de Marseille;Campeón invicto
-36;1991-92;F. C. Barcelona;1 - 0 ;U. C. Sampdoria;
-37;1992-93;Olympique de Marsella;1 - 0;Milan A. C.;Reestructuración de la competición. Campeón invicto
-38;1993-94;Milan A. C.;4 - 0;F. C. Barcelona;Logrado título en propiedad.
-39;1994-95;A. F. C. Ajax;1 - 0;Milan A. C.;
-40;1995-96;Juventus F. C.;1 - 1;A. F. C. Ajax;
-41;1996-97;B. V. Borussia;3 - 1;Juventus F. C.;
-42;1997-98;Real Madrid C. F.;1 - 0;Juventus F. C.;
-43;1998-99;Manchester United F. C.;2 - 1;F. C. Bayern;Campeón invicto.
-44;1999-00;Real Madrid C. F.;3 - 0;Valencia C. F.;Primera final entre equipos del mismo país y primera entre españoles
-45;2000-01;F. C. Bayern;1 - 1;Valencia C. F.;
-46;2001-02;Real Madrid C. F.;2 - 1;Bayer Leverkusen;
-47;2002-03;Milan A. C.;0 - 0;Juventus F. C.;Primera final entre equipos de Italia
-48;2003-04;F. C. Porto;3 - 0;A. S. Mónaco F. C.;
-49;2004-05;Liverpool F. C.;3 - 3;A. C. Milan;Logrado título en propiedad.
-50;2005-06;F. C. Barcelona;2 - 1;Arsenal F. C.;Campeón invicto
-51;2006-07;A. C. Milan;2 - 1;Liverpool F. C.;
-52;2007-08;Manchester United F. C.;1 - 1;Chelsea F. C.;Campeón invicto. Primera final entre equipos ingleses
-53;2008-09;F. C. Barcelona;2 - 0;Manchester United F. C.;
-54;2009-10;F. C. Internazionale;2 - 0;F. C. Bayern;
-55;2010-11;F. C. Barcelona;3 - 1;Manchester United F. C.;
-56;2011-12;Chelsea F. C.;1 - 1;F. C. Bayern;Perdedor en estadio propio
-57;2012-13;F. C. Bayern;2 - 1;B. V. Borussia;Primera final entre equipos alemanes
-58;2013-14;Real Madrid C. F.;4 - 1;Atlético de Madrid;Primera final entre equipos de la misma ciudad (Madrid)
-59;2014-15;F. C. Barcelona;3 - 1;Juventus F. C.;Logrado emblema de campeón múltiple.
-60;2015-16;Real Madrid C. F.;1 - 1;Atlético de Madrid;
-61;2016-17;Real Madrid C. F.;4 - 1;Juventus F. C.;Primera defensa del título bajo nuevo formato
+,Temporada,Campeon,Resultado,Subcampeon,Notas
+0,1955-56,Real Madrid C. F.,4 - 3,Stade de Reims,
+1,1956-57,Real Madrid C. F.,2 - 0,A. C. Fiorentina,Primer equipo campeón en su propio estadio. Primera defensa del título
+2,1957-58,Real Madrid C. F.,3 - 2 ,A. C. Milan,
+3,1958-59,Real Madrid C. F.,2 - 0,Stade de Reims,Primera final repetida
+4,1959-60,Real Madrid C. F.,7 - 3,Eintracht Frankfurt,Récord de campeonatos consecutivos. Final más goleadora
+5,1960-61,S. L. Benfica,3 - 2,C. F. Barcelona,Campeón sin extranjeros
+6,1961-62,S. L. Benfica,5 - 3,Real Madrid C. F.,Primera final entre dos campeones. Campeón sin extranjeros
+7,1962-63,Milan A. C.,2 - 1,S. L. Benfica,
+8,1963-64,F. C. Internazionale,3 - 1,Real Madrid C. F.,Campeón debutante e invicto
+9,1964-65,F. C. Internazionale,1 - 0,S. L. Benfica,
+10,1965-66,Real Madrid C. F.,2 - 1,F. K. Partizan,Logrado título en propiedad y campeón sin extranjeros
+11,1966-67,Celtic F. C.,2 - 1,F. C. Internazionale,Campeón debutante y sin extranjeros
+12,1967-68,Manchester United F. C.,4 - 1,S. L. Benfica,
+13,1968-69,Milan A. C.,4 - 1,A. F. C. Ajax,
+14,1969-70,Feyenoord,2 - 1,Celtic F. C.,
+15,1970-71,A. F. C. Ajax,2 - 0,Panathinaikós A. O.,
+16,1971-72,A. F. C. Ajax,2 - 0,F. C. Internazionale,
+17,1972-73,A. F. C. Ajax,1 - 0,Juventus F. C.,Logrado título en propiedad
+18,1973-74,F. C. Bayern,1 - 1,Atlético de Madrid,Primera y única final decidida en un partido de desempate
+19,1974-75,F. C. Bayern,2 - 0,Leeds United F. C.,
+20,1975-76,F. C. Bayern,1 - 0,A. S. Saint-Étienne,Logrado título en propiedad
+21,1976-77,Liverpool F. C.,3 - 1,Borussia Mönchengladbach,
+22,1977-78,Liverpool F. C.,1 - 0,Club Brujas KV,
+23,1978-79,Nottingham Forest F. C.,1 - 0,Malmö FF,Campeón debutante invicto y sin extranjeros
+24,1979-80,Nottingham Forest F. C.,1 - 0,Hamburgo S.V.,Campeón sin extranjeros
+25,1980-81,Liverpool F. C.,1 - 0,Real Madrid C. F.,Campeón invicto y sin extranjeros
+26,1981-82,Aston Villa F. C.,1 - 0,F. C. Bayern,Récord de campeonatos consecutivos de un mismo país. Campeón debutante
+27,1982-83,Hamburgo S.V.,1 - 0,Juventus F. C.,
+28,1983-84,Liverpool F. C.,1 - 1 ,A. S. Roma,Campeón invicto. Perdedor en estadio propio
+29,1984-85,Juventus F. C.,1 - 0,Liverpool F. C.,
+30,1985-86,F. C. Steaua Bucureşti,0 - 0,F. C. Barcelona,Primer campeón de Europa del Este. Campeón invicto
+31,1986-87,F. C. Porto,2 - 1,F. C. Bayern,
+32,1987-88,PSV Eindhoven,0 - 0 ,S. L. Benfica,Campeón con menos victorias
+33,1988-89,Milan A. C.,4 - 0,F. C. Steaua Bucureşti,Campeón invicto
+34,1989-90,Milan A. C.,1 - 0,S. L. Benfica,
+35,1990-91,F. K. Estrella Roja,0 - 0 ,Olympique de Marseille,Campeón invicto
+36,1991-92,F. C. Barcelona,1 - 0 ,U. C. Sampdoria,
+37,1992-93,Olympique de Marsella,1 - 0,Milan A. C.,Reestructuración de la competición. Campeón invicto
+38,1993-94,Milan A. C.,4 - 0,F. C. Barcelona,Logrado título en propiedad.
+39,1994-95,A. F. C. Ajax,1 - 0,Milan A. C.,
+40,1995-96,Juventus F. C.,1 - 1,A. F. C. Ajax,
+41,1996-97,B. V. Borussia,3 - 1,Juventus F. C.,
+42,1997-98,Real Madrid C. F.,1 - 0,Juventus F. C.,
+43,1998-99,Manchester United F. C.,2 - 1,F. C. Bayern,Campeón invicto.
+44,1999-00,Real Madrid C. F.,3 - 0,Valencia C. F.,Primera final entre equipos del mismo país y primera entre españoles
+45,2000-01,F. C. Bayern,1 - 1,Valencia C. F.,
+46,2001-02,Real Madrid C. F.,2 - 1,Bayer Leverkusen,
+47,2002-03,Milan A. C.,0 - 0,Juventus F. C.,Primera final entre equipos de Italia
+48,2003-04,F. C. Porto,3 - 0,A. S. Mónaco F. C.,
+49,2004-05,Liverpool F. C.,3 - 3,A. C. Milan,Logrado título en propiedad.
+50,2005-06,F. C. Barcelona,2 - 1,Arsenal F. C.,Campeón invicto
+51,2006-07,A. C. Milan,2 - 1,Liverpool F. C.,
+52,2007-08,Manchester United F. C.,1 - 1,Chelsea F. C.,Campeón invicto. Primera final entre equipos ingleses
+53,2008-09,F. C. Barcelona,2 - 0,Manchester United F. C.,
+54,2009-10,F. C. Internazionale,2 - 0,F. C. Bayern,
+55,2010-11,F. C. Barcelona,3 - 1,Manchester United F. C.,
+56,2011-12,Chelsea F. C.,1 - 1,F. C. Bayern,Perdedor en estadio propio
+57,2012-13,F. C. Bayern,2 - 1,B. V. Borussia,Primera final entre equipos alemanes
+58,2013-14,Real Madrid C. F.,4 - 1,Atlético de Madrid,Primera final entre equipos de la misma ciudad (Madrid)
+59,2014-15,F. C. Barcelona,3 - 1,Juventus F. C.,Logrado emblema de campeón múltiple.
+60,2015-16,Real Madrid C. F.,1 - 1,Atlético de Madrid,
+61,2016-17,Real Madrid C. F.,4 - 1,Juventus F. C.,Primera defensa del título bajo nuevo formato
