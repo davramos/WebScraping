@@ -10,7 +10,7 @@ Abril 2018
 
  
 
-1.     Descripción
+1.      Descripción
 
 Los datos recogidos en esta actividad práctica es extraida
 de la web de Wikipedia (https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA).
@@ -45,24 +45,24 @@ hasta el pasado año, dado que en la actual temporada aún no terminado la
 competición.
  
 
-5.   Agradecimientos
+5.    Agradecimientos
 
 Los datos se han extraído de la web de Wikipedia.
 
-6.   Inspiración
+6.    Inspiración
 
 Los datos obtenidos pueden utilizarse para desarrollar
 estadísticas más detalladas que puedan aportar valor a cualquier reportaje
 periodístico al respecto. 
 
-7.    Licencia
+7.     Licencia
 
 Para este proyecto se ha escogido la licencia GNU General
 Public License v2.0 que permite utilizarlo tanto de forma comercial como
 privada.
 
  
-8.    Código fuente y dataset
+8.     Código fuente y dataset
 
 Tanto el Código fuente como la información obtenida del
 dataset están disponibles en el siguiente repositorio de GitHub: https://github.com/davramos/WebScraping
